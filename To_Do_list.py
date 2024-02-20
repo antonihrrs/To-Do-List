@@ -35,7 +35,7 @@ while True :
                 break
 
             elif user_remove not in to_do_list:
-                print (f"Invalid request..., '{user_remove}' isn't on your list. Maybe there's a typo ?")
+                print (f"Invalid request..., '{user_remove}' isn't on your list.")
                 break
                 
 
